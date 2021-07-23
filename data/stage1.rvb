@@ -1,0 +1,13 @@
+A0->T19=grass
+J0=wall
+J3->J19=wall
+G0->G15=wall
+G19=wall
+D0=wall
+D3->D19=wall
+N0->N15=wall
+L19=wall
+
+K4=lion blue
+K7=mole
+K0=lion blue
